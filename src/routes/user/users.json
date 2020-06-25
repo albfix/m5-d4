@@ -1,18 +1,1 @@
-[
-    {
-        "name": "diego",
-        "role": "cto"
-    },
-    {
-        "name": "stefano",
-        "role": "fe tutor"
-    },
-    {
-        "name": "riccardo",
-        "role": "be tutor"
-    },
-    {
-        "name": "tobia",
-        "role": "ceo"
-    }
-]
+[{"name":"diego","role":"cto"},{"name":"stefano","role":"fe tutor"},{"name":"riccardo","role":"be tutor"},{"name":"tobia","role":"ceo"},{"name":"alberto","role":"student"},{"name":"alberto","role":"student"},{"name":"alberto","role":"student"},{"name":"alberto4","role":"Strive student"}]

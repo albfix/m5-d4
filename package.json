@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/albfix/m5-d4#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
   }
 }
