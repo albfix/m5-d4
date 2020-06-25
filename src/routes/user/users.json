@@ -1,0 +1,18 @@
+[
+    {
+        "name": "diego",
+        "role": "cto"
+    },
+    {
+        "name": "stefano",
+        "role": "fe tutor"
+    },
+    {
+        "name": "riccardo",
+        "role": "be tutor"
+    },
+    {
+        "name": "tobia",
+        "role": "ceo"
+    }
+]
